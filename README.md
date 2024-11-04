@@ -1,3 +1,5 @@
-"Grade_Analysis"
+#"Grade_Analysis"
+
 本人的一个数据分析小项目
+
 文件"2023-2024学年挂科同学课程成绩.sav"已做匿名处理
